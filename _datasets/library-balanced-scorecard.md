@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Library Balanced Scorecard
+title: Library Balanced Scorecard (Static)
 organization: Planning and Professional Services
 notes: Balanced Scorecard
 resources:
