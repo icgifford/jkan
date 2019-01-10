@@ -1,7 +1,7 @@
 ---
 schema: default
-title: Lost property items reported (dynamic)
-organization: 'Marketing, Communication and Customer Services'
+title: Lost property items reported (Dynamic)
+organization: ''
 notes: Interactive display of lost property items reported
 resources:
   - name: Lost property items reported
