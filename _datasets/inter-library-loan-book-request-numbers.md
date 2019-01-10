@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Inter-library loan book request figures (dynamic)
-organization: Digital Technologies and Services
+organization: 'Content, Collections and Discovery'
 notes: Interactive display of book request figures for inter-library loans
 resources:
   - name: Inter-library loan book requests
